@@ -2,7 +2,7 @@
 
 🇫🇷 Ce dépôt contient les diapositives du cours de mise à niveau en Java pour les étudiants en master 1 informatique à l'université Paris-Dauphine, pour l'année 2022.
 
-🇬🇧 This repository contains the slides (in French) of the Java refresher course for students in Master 1 Computer Science at Paris-Dauphine University, for the year 2022.
+🇬🇧 This repository contains the slides (in French) of the Java refresher course for students in Master 1 in Computer Science at Paris-Dauphine University, for the year 2022.
 
 ## Prérequis
 
