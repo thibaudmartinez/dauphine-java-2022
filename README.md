@@ -1,4 +1,4 @@
-# Java 2022 - M1 Informatique Dauphine 
+# Java - M1 Informatique Dauphine (2022)
 
 🇫🇷 Ce dépôt contient les diapositives du cours de mise à niveau en Java pour les étudiants en master 1 informatique à l'université Paris-Dauphine, pour l'année 2022.
 
