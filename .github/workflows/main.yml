@@ -33,7 +33,7 @@ jobs:
     - name: Generate PDF slides
       uses: docker://marpteam/marp-cli:v2.0.4
       with:
-        args: -o slides --theme-set themes/dauphine.css --allow-local-files --pdf --html -I src
+        args: -o slides --theme-set themes/dauphine.css --allow-local-files --pdf -I src
     - name: Commit
       uses: stefanzweifel/git-auto-commit-action@v4
       with:
