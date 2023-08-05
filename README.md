@@ -38,4 +38,7 @@ Les diapositives sont générées à partir de fichiers en Markdown grâce à [M
 
 Sur le dépot, les commits modifiant le répertoire [src/](./src/) déclenchent un workflow GitHub qui régénère les diapositives PDF et les stocke dans le dossier [slides/](./slides/).
 
+## Réutilisation
 
+Vous pouvez réutiliser librement le matériel pédagogique présent dans ce dépot, dans le cas d'un usage non-commercial.
+Merci de créditer Thibaud Martinez ainsi que les auteurs respectifs des ressources utilisées.
